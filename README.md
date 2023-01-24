@@ -1,4 +1,4 @@
-## Live : https://cryptoxtracker.netlify.app/
+## Live : <a href="https://cryptoxtracker.netlify.app/" target="_blank">click here</a>
 
 # Getting Started with Create React App
 
